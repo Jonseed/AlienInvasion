@@ -1,6 +1,6 @@
-run = ["python3", "main.py"]
+run = ["python3", "alien_invasion.py"]
 language = "python3"
-entrypoint = "main.py"
+entrypoint = "alien_invasion.py"
 hidden = ["venv", ".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
 
 audio = true
